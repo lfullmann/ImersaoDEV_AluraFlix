@@ -8,7 +8,9 @@ for (var i = 0; i < listaFilmes.length; i++) {
   document.write("<img src=" + listaFilmes[i] + ">");
 }
 
-var teste = [];
-teste.push = "Testando, 1 2 3";
+var teste = ["0", "1", "2", "3"];
 
+let fruits = ["Apple", "Banana"];
+
+console.log(fruits.length);
 console.log(teste);
