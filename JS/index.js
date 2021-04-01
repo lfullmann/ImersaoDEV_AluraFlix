@@ -22,6 +22,13 @@ for (var i = 0; i < listaFilmes.length; i++) {
 // while (tentativas > 0) {
 //   tentativas = tentativas - 1;
 
-for (i = 799; i > 0; i--) {
-  console.log(i);
+var filmes = [
+  "Tubarão",
+  "Bananas de Pijamas",
+  "Wolverine",
+  "Jurassic Park",
+  "Teste",
+];
+for (i = 0; i < filmes.length; i++) {
+  console.log(filmes[i]);
 }
