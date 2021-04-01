@@ -8,9 +8,20 @@ for (var i = 0; i < listaFilmes.length; i++) {
   document.write("<img src=" + listaFilmes[i] + ">");
 }
 
-var teste = ["0", "1", "2", "3"];
+// var teste = ["0", "1", "2", "3"];
 
-let fruits = ["Apple", "Banana"];
+// let fruits = ["Apple", "Banana"];
 
-console.log(fruits.length);
-console.log(teste);
+// console.log(fruits.length);
+// console.log(teste);
+
+// var coisas = ["Tênis", "Perfume", "Cofre", "Dinossauro"];
+// console.log(coisas[3], "and", fruits[0]);
+
+// var tentativas = 3;
+// while (tentativas > 0) {
+//   tentativas = tentativas - 1;
+
+for (i = 799; i > 0; i--) {
+  console.log(i);
+}
