@@ -10,7 +10,9 @@ body {
   
   .container {
     text-align: center;
-    padding: 20px;
+    padding: 0px;
+    z-index: 1;
+    margin-top: 0%;
   }
   
   .page-title {
